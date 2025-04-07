@@ -37,5 +37,3 @@ public class ProblemaQuadro {
 	}
 
 }
-
-//Algoritmo: largura é:; comprimento é:; valor do metro quadrado:; area do comodo:; total:;
